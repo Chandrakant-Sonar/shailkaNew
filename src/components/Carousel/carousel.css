@@ -1,0 +1,25 @@
+.carousel .slider-wrapper {
+  overflow: visible;
+}
+
+.carousel .slider {
+  overflow: visible;
+}
+
+.carousel .slide {
+  transform: scale(0.8);
+  transition: transform 0.5s ease;
+}
+
+.carousel .slide.selected {
+  transform: scale(1.5);
+}
+
+.carousel .slide img {
+  width: 30%;
+  height: 15rem;
+}
+
+.carousel .control-arrow {
+  opacity: 0.5;
+}
