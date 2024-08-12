@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "baa26408f3549a859a5d8e012cba7f15",
+    "revision": "234944a18f8b762c1ec0bb43b56e323e",
     "url": "/shailkanew/index.html"
   },
   {
-    "revision": "0a654e03d8a8f4980735",
+    "revision": "6f80b864d6f1ab9e3fd0",
     "url": "/shailkanew/static/css/2.fe62fa80.chunk.css"
   },
   {
-    "revision": "5b11e172441bda04d4cf",
-    "url": "/shailkanew/static/css/main.98c5c89f.chunk.css"
+    "revision": "0c6e86d97e3aabae660d",
+    "url": "/shailkanew/static/css/main.7c4f396b.chunk.css"
   },
   {
-    "revision": "0a654e03d8a8f4980735",
-    "url": "/shailkanew/static/js/2.db842d10.chunk.js"
+    "revision": "6f80b864d6f1ab9e3fd0",
+    "url": "/shailkanew/static/js/2.14a45fcb.chunk.js"
   },
   {
-    "revision": "5b11e172441bda04d4cf",
-    "url": "/shailkanew/static/js/main.f1af01ab.chunk.js"
+    "revision": "0c6e86d97e3aabae660d",
+    "url": "/shailkanew/static/js/main.c717baef.chunk.js"
   },
   {
     "revision": "5f4e93c593282ed414d0",
