@@ -56,13 +56,13 @@ const Apply = () => {
                                 <label className='aa'>Name</label>
                                 <input type="text" className='name' placeholder='Chandrakant Sonar' name='your_name' />
                                 </div>    
-                               <div className="name1">
-                               <label className='aa'>Email ID</label>
+                                <div className="name1">
+                                <label className='aa'>Email ID</label>
                                 <input type="email" className='email' placeholder='chandrakant@shailka.com' name='your_email' />
                                 </div>
                                 
                                 <div className="name1">
-                               <label className='aa'>Skills</label>
+                                <label className='aa'>Skills</label>
                                 <textarea className="msg" name="message" cols="30" rows="6" placeholder='Describe your skills'></textarea>
                                 </div>
                                 
