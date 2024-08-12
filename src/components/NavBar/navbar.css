@@ -33,7 +33,7 @@
   left: 50%; /* Center horizontally relative to the container */
   transform: translateX(-50%); /* Offset by 50% of its own width */
   
-  border: 2px initial gray;
+  border:2px solid grey;
  
   width: 1200px; /* Adjust as needed */
   display: flex;
