@@ -14,7 +14,6 @@ const Hire = () => {
             .then((result) => {
                 console.log(result.text);
                 alert('Email sent successfully');
-                
                 e.target.reset();
             })
             .catch((error) => {

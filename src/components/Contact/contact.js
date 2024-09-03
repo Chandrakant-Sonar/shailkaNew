@@ -57,7 +57,7 @@ const Contact = () => {
                                     <input type="email" className='email' placeholder='chandrakant@shailka.com' name='your_email' />
                                 </div>
                                 <div className="name1">
-                                    <label>Role/Skills you are looking for?</label>
+                                    <label className='aa'>Role/Skills you are looking for?</label>
                                     <input type="text" className='name' placeholder='eg. Python, React, Golang, etc.' name='role' />
                                 </div>
                                 <div className="name1">
@@ -66,7 +66,7 @@ const Contact = () => {
                                 </div>
                                 <div className="name1">
                                     <label className='aa'>Job Description's URL</label>
-                                    <textarea className="msg" name="jd" cols="30" rows="6" placeholder='Job Description'></textarea>
+                                    <textarea className="msg" name="jd" cols="30" rows="2" placeholder="Job Description's URL"></textarea>
                                 </div>
                                 <button type='submit' className='submit1'>Submit</button><br />
                             </form>
